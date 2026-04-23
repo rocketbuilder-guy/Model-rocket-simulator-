@@ -1,0 +1,218 @@
+
+⚡ ROCKET FORGE
+BUILD · ENGINEER · LAUNCH
+▶ COMPONENTS
+// NOSE CONES
+
+Sharp Cone
+drag: LOW
+
+Blunt Cone
+drag: MED
+
+Ogive
+drag: V.LOW
+// FUEL TANKS
+
+Small Tank
+fuel: 100
+
+Medium Tank
+fuel: 250
+
+Large Tank
+fuel: 500
+// ENGINES
+
+Micro Engine
+thrust: 80
+
+Turbo Engine
+thrust: 200
+
+Hyper Engine
+thrust: 500
+// FINS
+
+Mini Fins
+stab: +10
+
+Delta Fins
+stab: +25
+// BOOSTERS
+
+Side Booster
++thrust 500
+// RECOVERY
+
+Parachute
+safe landing
+// COUPLINGS
+
+Decoupler
+stage sep.
+
+Wide Adapter
+narrows up
+
+Narrow Adapter
+widens up
+
+Payload Fairing
+aero shield
+// PAYLOADS
+
+Satellite
+mass: 15
+
+Space Telescope
+mass: 20
+
+Crew Capsule
+mass: 18
+
+Station Module
+mass: 30
+📦 PLACE
+✕ DELETE
+✥ MOVE
+⬛ CLEAR
+▲ LAUNCH
+MODE: PLACE
+
+TAP/CLICK PART → TAP/CLICK GRID TO PLACE  |  BUILD BOTTOM TO TOP
+PPlace   DDelete   VMove   XClear   LLaunch   1-9Quick-select part   ESCDeselect
+▶ TELEMETRY
+TOTAL MASS
+0 kg
+TOTAL THRUST
+0 kN
+FUEL CAPACITY
+0 L
+
+STABILITY
+0
+
+THRUST/WEIGHT
+—
+EST. MAX ALT
+—
+PART COUNT
+0
+CHECKLIST
+○ Nose cone
+○ Fuel tank
+○ Engine
+○ TWR > 1.0
+
+? TUTORIAL
+🎬 VIDEOS
+
+⚡ ROCKET FORGE
+BUILD · ENGINEER · LAUNCH
+▶ COMPONENTS
+// NOSE CONES
+
+Sharp Cone
+drag: LOW
+
+Blunt Cone
+drag: MED
+
+Ogive
+drag: V.LOW
+// FUEL TANKS
+
+Small Tank
+fuel: 100
+
+Medium Tank
+fuel: 250
+
+Large Tank
+fuel: 500
+// ENGINES
+
+Micro Engine
+thrust: 80
+
+Turbo Engine
+thrust: 200
+
+Hyper Engine
+thrust: 500
+// FINS
+
+Mini Fins
+stab: +10
+
+Delta Fins
+stab: +25
+// BOOSTERS
+
+Side Booster
++thrust 500
+// RECOVERY
+
+Parachute
+safe landing
+// COUPLINGS
+
+Decoupler
+stage sep.
+
+Wide Adapter
+narrows up
+
+Narrow Adapter
+widens up
+
+Payload Fairing
+aero shield
+// PAYLOADS
+
+Satellite
+mass: 15
+
+Space Telescope
+mass: 20
+
+Crew Capsule
+mass: 18
+
+Station Module
+mass: 30
+📦 PLACE
+✕ DELETE
+✥ MOVE
+⬛ CLEAR
+▲ LAUNCH
+MODE: PLACE
+
+TAP/CLICK PART → TAP/CLICK GRID TO PLACE  |  BUILD BOTTOM TO TOP
+PPlace   DDelete   VMove   XClear   LLaunch   1-9Quick-select part   ESCDeselect
+▶ TELEMETRY
+TOTAL MASS
+0 kg
+TOTAL THRUST
+0 kN
+FUEL CAPACITY
+0 L
+
+STABILITY
+0
+
+THRUST/WEIGHT
+—
+EST. MAX ALT
+—
+PART COUNT
+0
+CHECKLIST
+○ Nose cone
+○ Fuel tank
+○ Engine
+○ TWR > 1.0
+
+? TUTORIAL
+🎬 VIDEOS
